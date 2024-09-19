@@ -5,13 +5,10 @@ This repository contains the essential concepts of PHP, covering a variety of im
 
 - **Associative Arrays**
 - **Lambda Functions**
-- **Separating Logic From the Template**
-- **Superglobals and Current Page Stylings**
 - **Creating a PHP Router**
 - **Working with MySQL Databases**
-- **PDO First Steps**
-- **Extracting a PHP Database Class**
-- **Environments and Configuration Flexibility**
-- **SQL Injection Vulnerabilities Explained**
+- **PDO **
+- **PHP Database Class**
+- **SQL Injection Vulnerabilities**
 
 Each section demonstrates practical implementations to help you build a strong foundation in PHP development.
